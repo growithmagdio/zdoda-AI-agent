@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Production build
+dist/
+
+# Local env & logs
+*.log
+.DS_Store
+Thumbs.db
+styles.css.backup
